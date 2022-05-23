@@ -1,9 +1,3 @@
-# Guideline Evaluation TensorRT Model
-
-## Outline
-[TOC]
-
-
 ## I. Introduction
 - The evaluation for models with the different platforms is a big deal for developers. This guideline is able to address this issue. 
 - In this guideline, I will show you how to convert the yolov5 model to other platforms and evaluate the models after converting such as TensortRT, ONNX, Torchscript, Openvino.
