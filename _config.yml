@@ -6,7 +6,7 @@
 name: Nguyen Vu Le Minh
 
 # Short bio or description (displayed in the header)
-description: AI Developer from Somewhere
+description: AI Engineering and Python Developer
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://ucc498c026695a7fe9f2024303ee.previews.dropboxusercontent.com/p/thumb/ABgeYC8HzdiVhpsQ3N_q3MJNVKXmDNb8ji8Ak0kRP8QkqtbGZe5Fw5a7MhuhMoBmEXBS9FGdWzDTlnzO-p4OztyvBON14JhdymmVazJudid3UbKMHm_iOtDIzfwELUc5MAsdGB46NHzeDAESs9IIPkb-KYCDHqj9Qgmc4q0p_3r4S9D7L7oMAt6JfNR_2gbkqwOaToBbXfM1PsqVfaTnr1kKV_FIBEx6IetLoHwJaUkaguIcCZSMikSJmWLyz46pR8p2-F42CPnO-OsxcFH_jYuWMF2cbtELbk4y5llOOMbocWGiH3PzuemTQ9T1R_uIR-4Bt7jBDCGdAE-XNSfd8l-ZKHuQ_ZkhO7Ruwjd2v6lJ78mBPimUQgGZbzkFyBzihLA4mbkVhECp4_FLld9xuI0URdapw7nIttAK2T9RcPGwLw/p.jpeg
@@ -18,15 +18,15 @@ avatar: https://ucc498c026695a7fe9f2024303ee.previews.dropboxusercontent.com/p/t
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
+  email: nguyenvuleminh2205@gmail.com
   facebook:
-  flickr:
+  flickr: 
   github: barryclark/jekyll-now
   instagram:
   linkedin:
   pinterest:
   rss: # just type anything here for a working RSS icon
-  twitter: jekyllrb
+  twitter: minhnvl
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
